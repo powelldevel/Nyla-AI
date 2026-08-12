@@ -1,0 +1,11 @@
+.next/
+coverage/
+node_modules/
+out/
+playwright-report/
+test-results/
+package-lock.json
+docs/0[1-9]-*.md
+docs/1[0-2]-*.md
+docs/diagrams/
+docs/review-checklist.md
